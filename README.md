@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Web developement**
 
-- 👨‍💻 All of my projects are available at [https://gadgetfather.netlify.app/](https://gadgetfather.netlify.app/)
+- 👨‍💻 Checkout my work in pinned repositories
 
 - 📫 How to reach me **kamblea635@gmail.com**
 
